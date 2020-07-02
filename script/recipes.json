@@ -1,0 +1,87 @@
+let recipes = [
+    {
+        "id": 1,
+        "title": "Cauliflower & Mushroom",
+        "coverImg": "../img/recipes/cauli/coverCaulifilower.png",
+        "coverDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing
+        elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Lorem
+        ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua.",
+        "difficulty": ["easy","medium","hard"],
+        "time": [{
+            "hours": "1",
+            "minutes": "40"
+        }],
+        "steps": [{
+            "step1":"One layer of steamed cauliflower.",
+            "step2":"One layer of cooced minced mushrooms with onion and paprika.",
+            "step3":"One layer of cooced (or steamed) rice.Basmati I use here.",
+            "step4":"One cup of (vegan) sour cream and cheese goes on top.",
+            "step5":"With cheese avoid strong taste otherwise the whole dish will taste like your cheese.",
+            "step6":"25 minutes on 180 C or until the surface is golden brown.",
+            "step7":"A mincer and some great oyster mushrooms.",
+            "step8":"Add minced mushrooms.",
+            "step9":"Chopped onion fries till soft with a half tablespoon paprika.",
+            "step10":"Fry the minced mushroom with the onion base for 5 minutes.",
+            "step11":"Try to use a steamer or you can boil the cauliflower for 5 minutes.",
+            "step12":"When soft then ready for layering.",
+            "step13":"Mahlzeit BonAppetit."
+        }]
+    }, {
+        "id": 2,
+        "title": "Mushrooms Grilled",
+        "coverImg": "../img/recipes/grilled/grilledCover.png",
+        "coverDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing
+        elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Lorem
+        ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua.",
+        "difficulty": ["easy","medium","hard"],
+        "time": [{
+            "hours": "1",
+            "minutes": "14"
+        }],
+        "steps": [{
+            "step1":"",
+            "step2":"Take the mushroom flowers of the stam and put them in some kind of marinade. Teryake or BBQ sauce or season with dried spices or pepper and olive oil.",
+            "step3":"",
+            "step4":"Fry the mushrooms on middle heat for 2 minutes or until looses whitness.",
+            "step5":"Mahlzeit BonAppetit."
+        }]
+    }, {
+        "id": 3,
+        "title": "Mushroom Jerky",
+        "coverImg": "../img/recipes/jerkyCover.png",
+        "coverDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing
+        elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Lorem
+        ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua.",
+        "difficulty": ["easy","medium","hard"],
+        "time": [{
+            "hours": "",
+            "minutes": "45"
+        }],
+        "steps": [{
+            "step1":"For 20 minutes bold as many shredded Oyster Mushroom as possible.",
+            "step2":"Make the Marinade sauce of your dreams! The style 6 taste is up to you.",
+            "step3":"Roth of you should rest a littlebit.",
+            "step4":"Whisk the marinade in gently and put it in the fride for 24 heouers.",
+            "step5":"Place them next to each other and put them in a fruit dryer or the owen.",
+            "step6":"Dry them on around 50 C for about 7-8 houers.",
+            "step7":"Yes,that´s right! Around 7-8 houers! If you only have oven, set it on lowest and leave the door open a bit so the steam can leave. At this stage you can be ready! or!-start melting some chocolate...",
+            "step8":"Dip them in the nicest melted chocolate you have and let them cool down. Warning: by the time you finish,the jerky might also be...Even if you have started with many kilograms of mushroom, in this form it will disapear in no time!",
+            "step9":"Mahlzeit BonAppetit."
+        }]
+    }
+]
